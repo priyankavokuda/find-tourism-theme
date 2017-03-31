@@ -20,6 +20,10 @@ Run ml_random_forest.py to analyse the performance of Random forests on the data
 
 PCA, SVM and Random Forest are done using scikit-learn machine learning library.
 
+#Results
+
+![](https://github.com/priyankavokuda/priyankavokuda.github.io/blob/master/images/tourist_theme.gif)
+
 
 Credits to: 
 Pedregosa, Fabian, Gaël Varoquaux, Alexandre Gramfort, Vincent Michel, Bertrand Thirion, Olivier Grisel, Mathieu Blondel et al. "Scikit-learn: Machine learning in Python." Journal of Machine Learning Research 12, no. Oct (2011): 2825-2830.
