@@ -1,6 +1,6 @@
 #We propose a framework that is able to automatically find the tourism theme of a given input country. We use supervised learning for this task with SVM and Random Forests algorithms.
 
-#Dependencies#
+# Dependencies
 
 Python 2.7
 
@@ -8,7 +8,7 @@ scikit-learn: http://scikit-learn.org/stable/install.html
 
 cartopy: conda install -c scitools cartopy
 
-#Usage#
+# Usage
 
 Run preprocess_images_countries.py to pre-process images of countries in "Countries" folder.
 
@@ -20,7 +20,7 @@ Run ml_random_forest.py to analyse the performance of Random forests on the data
 
 PCA, SVM and Random Forest are done using scikit-learn machine learning library.
 
-#Results#
+# Results 
 
 ![](https://github.com/priyankavokuda/priyankavokuda.github.io/blob/master/images/tourist_theme.gif)
 
