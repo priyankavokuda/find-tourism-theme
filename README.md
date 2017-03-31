@@ -1,4 +1,4 @@
-#We propose a framework that is able to automatically find the tourism theme of a given input country. We use supervised learning for this task with SVM and Random Forests algorithms.
+# We propose a framework that is able to automatically find the tourism theme of a given input country. We use supervised learning for this task with SVM and Random Forests algorithms.
 
 # Dependencies
 
