@@ -1,4 +1,14 @@
-# We propose a framework that is able to automatically find the tourism theme of a given input country. We use supervised learning for this task with SVM and Random Forests algorithms.
+# Find tourist theme of a country
+
+This project was done as part of Masters curriculum which involved finding own and useful real life use case to apply machine learning.
+
+The use case was to find the tourism theme of a given input country.
+
+The input to the system were images of fixed set of countries collected from social networking site. Training images were obtained by searching using hashtags #{theme_name}.
+
+Fixed themes were selected and used are labels. The problem of finding tourist theme was reduced to supervised image classification problem with test image as a random image of a country.
+
+Random forest was used as classification method which gave a modest performance of ~50 %. The performance can be improved by noisy images removal from the training data.
 
 # Dependencies
 
