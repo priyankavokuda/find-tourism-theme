@@ -1,6 +1,6 @@
 # Find tourist theme of a country
 
-This project was done as part of Masters curriculum which involved finding own and useful real life use case to apply machine learning.
+This project was done as part of Masters curriculum which involved finding own and useful real life use-case to apply machine learning methods.
 
 The use case was to find the tourism theme of a country.
 
